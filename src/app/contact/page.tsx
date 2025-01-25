@@ -35,7 +35,7 @@ const Contact: React.FC = () => {
             Contact Us
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Got a question? We'd love to hear from you! Fill out the form below, and we'll get back to you as soon as possible.
+            Got a question? Wed love to hear from you! Fill out the form below, and well get back to you as soon as possible.
           </p>
         </div>
         <div className="lg:w-1/2 md:w-2/3 mx-auto">
@@ -103,7 +103,7 @@ const Contact: React.FC = () => {
                 Thank you!
               </h2>
               <p className="text-base text-gray-700">
-                Your message has been successfully submitted. We'll get back to you soon.
+                Your message has been successfully submitted. Well get back to you soon.
               </p>
             </div>
           )}
